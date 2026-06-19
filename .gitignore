@@ -1,0 +1,20 @@
+# Livello privato e ignorato (standard)
+_notes/
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/memory/*.local.md
+.tmp-docx-*/
+
+# Documenti Word grezzi (il mirror .md e versionato; il .docx resta locale)
+*.docx
+
+# Ambiente
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
