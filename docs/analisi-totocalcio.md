@@ -25,8 +25,7 @@
 - Si scommette su **7, 9, 11, 13, 14**.
 
 ### Formule (sistema attuale)
-- **Formula 13**: prime **8 partite obbligatorie** (uguali per tutti) + **5 a scelta** su una lista di altre 12.
-  → Statistica solo sulle **prime 8** (colonna vincente diversa per ogni giocatore).
+- **Formula 13**: prime **8 partite obbligatorie** (uguali per tutti) + **5 a scelta** su una lista di altre 12. → Statistica solo sulle **prime 8** (colonna vincente diversa per ogni giocatore).
 - **Formula 9** = prime **6 obbligatorie** + 3 a scelta → statistica sulle prime 6.
 - **Formula 11** = prime **7 obbligatorie** + 4 a scelta → statistica sulle prime 7.
 
